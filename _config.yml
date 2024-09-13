@@ -12,7 +12,7 @@ oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt",
 locale                   : "en-US"
 title                    : "The Maze"
 title_separator          : "-"
-subtitle                 : " A 3D raycasting game written in C with Simple Direct Media Layer (SDL2)." # Displayed in the masthead below the title, use " " for no subtitle
+subtitle                 : # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://towerofdragons.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "towerofdragons/TheMaze" # GitHub username/repo-name
