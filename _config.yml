@@ -10,9 +10,9 @@ oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Maze"
+title                    : "The Maze Project"
 title_separator          : "-"
-subtitle                 : "A 3D Raycaster"# Displayed in the masthead below the title, use " " for no subtitle
+subtitle                 : "A 3D Raycaster" # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://towerofdragons.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "towerofdragons/TheMaze" # GitHub username/repo-name
@@ -20,7 +20,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # Site logo displayed in the masthead
 show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
                                 # Edit the popup itself in the respective /includes file
-masthead_title           : " "  # Overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "The Maze Project"  # Overrides the website title displayed in the masthead, use " " for no title
 sticky-masthead          : true # if true, masthead/navigation bar will stay visible when the user scrolls down.
                                 # if false, it will move out of sight when scrolling.
 masthead-opacity         : 0.85 # set to any value between 0 and 1.
